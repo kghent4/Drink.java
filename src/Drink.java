@@ -8,7 +8,6 @@ public class Drink{
     }
   
     //Add toString() method here
-    //la de da
   
   
     //Add compareTo() method here
